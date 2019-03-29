@@ -4,8 +4,8 @@
 
 1. Get your feet wet
     - Create a README for the project that should have the below information:
-    - Clear instructions on how to install a project on a fresh Raspbian OS
-    - Updated requirements.txt
+        - Clear instructions on how to install a project on a fresh Raspbian OS
+        - Updated requirements.txt
 2. Replace QR codes to BLE
     - Use BLE to receive QR code based information from a nearby selected iOS device
         - This will allow the user to initiate actions from a nearby iOS app
