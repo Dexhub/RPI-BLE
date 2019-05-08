@@ -9,10 +9,8 @@ This is a PoC project repo. The script should perform the following:
 - The script should start a UI screen and make the raspberry pi available to receive data.
 - The UI should show:
     + The name/UUID of the raspberry Pi (top-label). 
-    + The list of devices nearby to communicate to.
-- On receiving any data from the iOS app, the script should show an alert with the entire data received
-- On selecting one of the devices from the nearby list, it should be able to send the data to that device.
-- The data for now can be a static string.
+- On receiving any data from the iOS app, the script should show an alert with the entire data received. This data should be json strings and can be higher than 250 bytes in length.
+- The UI should have an option to write values to a GATT characteristic. The value to be written can be json string 400 bytes in length.
 - A Readme for clean install.
 
 
