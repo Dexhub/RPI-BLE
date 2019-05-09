@@ -61,13 +61,13 @@ Please use the following for this project:
 
 
 ## FAQs:
-1 - How will you pick a candidate ?
-- Depends on the candidates:
+1. How will you pick a candidate ?
+    - Depends on the candidates:
         - Past experience with similar projects, portfolio.
         - Communication
         - Responsiveness
         - Knowledge in this area
-2 - What happens after you pick a freelancer?
+2. What happens after you pick a freelancer?
     - You will need to send me your full name, Company name, people who will be involved with the project.
     - I'll share the NDA and the Statement of Work.
     - You would need to sign both of them and along with them send me the following things:
@@ -77,7 +77,7 @@ Please use the following for this project:
         - Access to github repo.
         - Add you the project's Jira board for tracking.
         - Add you to the project's slack channel.
-3 - What is the development process? (Agile/Sprint based) 3 - 7 day sprints
+3. What is the development process? (Agile/Sprint based) 3 - 7 day sprints
     - Each feature listed in the SOW will be broken into separate tasks.
     - You will need to estimate the effort for each of the tasks assigned to you before beginning work on it.
     - Time will be tracked using workdiary or hubstaff; as it would have been discussed prior to the contract.
@@ -85,11 +85,11 @@ Please use the following for this project:
     - For each major epic, you will create a separate feature branch on git and commit your changes there. Once the changes are done, and test cases are added, you can demo them in the next day's sync up. Once the demo is done, and no more changes are suggested, you may pull all the changes from master into your current branch and test it. Once it looks good, after an internal code review please raise a pull request with all the detail on your changes.
     - I will then review your code and merge it to master. This will be done for each epic and major tasks.
     - Never commit on Master or force push your changes on master.
-4 - How will the payments be handled.
+4. How will the payments be handled.
     - You will need to push all your current changes to the remote repo by wednesday and saturday of every week; to keep things current.
     - If I do not see repo updated on regular basis the contract will be paused and potentially revoked.
 
-5 - License requirements:
+5. License requirements:
 - This is a work made of hire hence your work is the property of us once its done. Consultant shall make no claims of the ownership of the work and assign irrevocable rights to that work to us.
 - Consultant will make sure that your work is original and not a copy of someone else's original work.
 - Consultant will make sure that all the necessary licenses are checked before submitting someone else's work.
