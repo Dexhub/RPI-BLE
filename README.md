@@ -8,8 +8,6 @@ Raspberry Pi + BLE connection with iOS app
 Background:
     - The project is about creating a python based BLE peripheral program that runs on Raspberry Pi. The program acts as a BLE peripheral device and waits for a connection from an iOS app. Once its connected it reads JSON  based string data passed by the iOS app processes it and sends information back. The program has other functionalities for encryption and signing which is the processing part. The program is already developed and so is the iOS app. The program has a UI and uses QR code to communicate with the iOS app. The idea is to instead use BLE to communicate to the mobile app.
 
-### Objectives:
-
 1. Instructions on how to install the program on a fresh raspbian image:
     - I created this project sometime ago and had to do a few hacks on raspbian 
       to enable opencv2 on the raspberry pi. I might still have the instructions
